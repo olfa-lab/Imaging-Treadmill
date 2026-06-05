@@ -32,7 +32,7 @@ https://github.com/misiVoroslakos/3D_printed_designs/tree/main/Treadmill_Rinberg
 Part list can be reached here. 
 https://github.com/misiVoroslakos/3D_printed_designs/blob/main/Treadmill_Rinberg/BOM_Treadmill_Rinberg.txt 
 
-### Sample image
+### Sample image (prototype 1.5" post version, all other dimensions identical to 2" post version in this repo)
 <img width="3024" height="4032" alt="IMG_8390" src="https://github.com/user-attachments/assets/8a738d9a-3664-4bf8-ae7e-234fc04ab56f" />
 <img width="3024" height="4032" alt="IMG_8389" src="https://github.com/user-attachments/assets/fe3b3b8b-eb1a-44e5-b562-04144ab644f3" />
 <img width="3024" height="4032" alt="IMG_8388" src="https://github.com/user-attachments/assets/12b3aff7-84ea-4079-85a2-8336475160fd" />
